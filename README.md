@@ -1,3 +1,8 @@
+此為本人照著android官方推出的kotlin教學做出的project
+
+主要練習使用compose方法設計使用介面，並使用了Viewmodel來做為後台存放所有的Function
+
+
 Unscramble app
 =================================
 
